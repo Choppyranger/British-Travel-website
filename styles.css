@@ -1,0 +1,121 @@
+body{   /*this body section will add styles to the whole page*/
+    background-color: grey; /*This changes the background colour*/
+    text-align: center; /*This piece of code makes all content center in to the middle*/
+    
+    background-repeat: none;
+    background-size: 100%;
+} 
+
+
+
+.top{
+ /*background-color: rgb(172, 152, 126);*/
+ text-align: center;
+ height: 250px;
+ width:50%;
+ float: left;
+}
+
+.right{
+    background-color: rgb(7, 92, 25);
+    text-align: center;
+    height: 500px;
+    width:100%;
+}
+
+.left{
+   /* background-color: rgb(53, 46, 88);*/
+    text-align: center;
+    height: 500px;
+    width:100%;
+    float: left;
+}
+
+.bottom{
+
+background-color: red;
+height: 250px;
+width:100%;
+float: left;
+
+}
+
+.navigation{
+height: 150px;
+width:100%;
+float: left;
+}
+
+.imgbox{
+height: 150px;
+width:50%;
+float: left;
+}
+
+.holidays{
+    
+    text-align: center;
+    height: 700px;
+    width:80%;
+    float: left;
+  margin-top: 12px;
+  margin-left:10%;
+  font-size: 20px;
+  background-color: antiquewhite;
+}
+
+.navigation{
+width: 40%;
+height: 150px;
+margin-left: 20%;
+margin-top: 125;
+font-size: 40px;
+
+
+}
+  
+.navigation1{
+background-color: aquamarine;
+height: 200px;
+width: 100%;
+float: left;
+font-size: 40px;
+}
+
+.container1{
+    background-color: rgb(199, 233, 222);
+    height: 200px;
+    width: 25%;
+    float: left;
+     
+}
+
+.texttall{
+    background-color: rgba(79, 109, 99, 0.5);
+    height: 200px;
+    width: 25%;
+    float: left;
+}
+
+.container2{
+    background-color: rgb(38, 61, 53);
+    height: 200px;
+    width: 25%;
+    float: left;
+}
+
+.map{
+    background-color: rgb(8, 37, 28);
+    height: 200px;
+    width: 25%;
+    float: left;
+}
+
+.side{
+    text-align: center;
+    height: 500px;
+    width:50%;
+    float: left;
+  margin-top: 12px;
+  font-size: 40px;
+}
